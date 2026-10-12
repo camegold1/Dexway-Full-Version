@@ -250,4 +250,4 @@ This repository serves as the official landing page for Dexway. The software is 
 **Get the most recent version of Dexway today!**
 
 ---
-**Last updated:** 2026-10-11 21:48:12 UTC
+**Last updated:** 2026-10-12 01:07:29 UTC
